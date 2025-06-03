@@ -26,5 +26,4 @@ This is a basic Spring Boot project implementing **Basic Authentication** using 
 
 ---
 
-## Project Structure
 
